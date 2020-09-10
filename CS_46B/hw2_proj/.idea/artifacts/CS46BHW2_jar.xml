@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS46BHW2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS46BHW2_jar</output-path>
+    <root id="archive" name="hw2project.jar">
+      <element id="module-output" name="hw2project" />
+    </root>
+  </artifact>
+</component>

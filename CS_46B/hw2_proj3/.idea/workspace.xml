@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CS46BHW2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b44a343-e3ed-40c5-98c8-8eb0f1837cd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw2_proj/WeatherTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2_proj/~$HW2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udemy/HelloWorld/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Udemy/HelloWorld/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/qaplug_profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/hw2_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/$PROJECT_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/qaplug_profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/hw2_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/weather/CirrusCloud.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/weather/CumulusCloud.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/weather/Sky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/weather/StratusCloud.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw2_project/src/weather/WeatherTester.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hIyRrZE9BzjgJfKiTXApPr4LEM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/weather" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/weather" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WeatherTester">
+    <configuration name="Sky" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="weather.Sky" />
+      <module name="hw2project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherTester" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="weather.WeatherTester" />
+      <module name="hw2project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hw2project" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hw2project" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="hw2project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="hw2project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <module name="hw2project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <option name="studyTest" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="hw2project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="hw2project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sky" />
+      <item itemvalue="Application.WeatherTester" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b44a343-e3ed-40c5-98c8-8eb0f1837cd4" name="Default Changelist" comment="" />
+      <created>1599712895881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599712895881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="166" width="1143" height="792" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599716587170">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="417" y="166" width="1143" height="792" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599716587170" />
+    <state x="417" y="157" width="1143" height="792" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.993/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.993" timestamp="1599714202325" />
+    <state x="595" y="267" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599717385024">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="595" y="267" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599717385024" />
+    <state x="595" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.993/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.993" timestamp="1599714183953" />
+    <state width="1858" height="243" key="GridCell.Tab.0.bottom" timestamp="1599717948892">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1858" height="243" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599717365064" />
+    <state width="1858" height="243" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.993/-1680.23.1680.1027@0.23.1920.1057" timestamp="1599717948892" />
+    <state width="1858" height="243" key="GridCell.Tab.0.center" timestamp="1599717948891">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1858" height="243" key="GridCell.Tab.0.center/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599717365063" />
+    <state width="1858" height="243" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.993/-1680.23.1680.1027@0.23.1920.1057" timestamp="1599717948891" />
+    <state width="1858" height="243" key="GridCell.Tab.0.left" timestamp="1599717948891">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1858" height="243" key="GridCell.Tab.0.left/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599717365062" />
+    <state width="1858" height="243" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.993/-1680.23.1680.1027@0.23.1920.1057" timestamp="1599717948891" />
+    <state width="1858" height="243" key="GridCell.Tab.0.right" timestamp="1599717948892">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1858" height="243" key="GridCell.Tab.0.right/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599717365063" />
+    <state width="1858" height="243" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.993/-1680.23.1680.1027@0.23.1920.1057" timestamp="1599717948892" />
+    <state x="192" y="23" key="SettingsEditor" timestamp="1599717435134">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="192" y="23" key="SettingsEditor/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599717435134" />
+    <state x="567" y="163" key="extract.method.dialog" timestamp="1599715551510">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="567" y="163" key="extract.method.dialog/0.23.1920.1057/1920.-21.1920.1057/-1680.-30.1680.1027@0.23.1920.1057" timestamp="1599715551510" />
+  </component>
+</project>
